@@ -1,0 +1,6 @@
+<a href="./">Login </a>
+Esse href com "pontoBarra" serve para voltar para a pagina raiz. (Nesse caso voltou para o index.html)
+
+No CSS # é pra id
+. é pra classe
+
